@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GRG",
+    "R R",
+    "MMM"
+  ],
+  "key": {
+    "G": {
+      "item": "appliedenergistics2:quartz_glass"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    },
+    "M": {
+      "item": "minecraft:warped_planks"
+    }
+  },
+  "result": {
+    "item": "ae2_additions:warped_empty_storage_cell"
+  }
+}
