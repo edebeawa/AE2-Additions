@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ae2_additions:item/cell/component/16m_cell_component"
+  }
+}
