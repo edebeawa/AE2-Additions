@@ -1,0 +1,10 @@
+{
+  "parent": "ae2_additions:item/models/cell",
+  "textures": {
+    "customCell": "ae2_additions:item/cell/golden_storage_cell",
+    "overlay0": "ae2_additions:item/cell/overlay/portable_cell_overlay",
+    "overlay1": "ae2_additions:item/cell/overlay/portable_cell",
+    "overlay2": "ae2_additions:item/cell/overlay/cell_on_overlay"
+    
+  }
+}
