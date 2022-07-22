@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ae2_additions:item/cell/jungle_empty_storage_cell"
+  }
+}
